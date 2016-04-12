@@ -75,4 +75,3 @@ list.add('D');
 list.add('E');
 list.add('F');
 console.log( list.printAll() );
-console.log(list.tail.prev.prev.data)
